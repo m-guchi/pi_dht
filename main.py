@@ -6,7 +6,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 import sys
-sys.path.append('../')
+sys.path.append('/home/guchi/')
 from config import basic,url
 
 if __name__ == "__main__":
